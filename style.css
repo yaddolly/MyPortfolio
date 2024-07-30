@@ -265,13 +265,13 @@ footer{
   html {
     font-size: 32%;
   }
-   /* #hero .container {
+   #hero .container {
     flex-direction: column;
   }
   .hero_image {
     display: grid;
     place-items: center;
-  } */
+  }
   #contact .container {
     height: 50vh;
   }
